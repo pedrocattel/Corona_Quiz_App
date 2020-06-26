@@ -1,16 +1,7 @@
-# coronaquizapp
+# Corona Quiz App
 
-A new Flutter application.
+Este aplicativo tem o intuito de auxiliar a população durante esse período de quarentena. \br
 
-## Getting Started
+Com uma série de perguntas relacionadas ao novo vírus Covid-19, o usuário terá a chance de aprender mais e assim disseminar informações corretas.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
